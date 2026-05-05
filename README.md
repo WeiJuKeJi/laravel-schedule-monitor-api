@@ -5,7 +5,7 @@
 ## 依赖
 
 - PHP >= 8.3
-- Laravel >= 12.0
+- Laravel 12.x, 13.x
 - [spatie/laravel-schedule-monitor](https://github.com/spatie/laravel-schedule-monitor) ^4.0
 
 ## 安装
